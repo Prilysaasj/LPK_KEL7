@@ -37,7 +37,7 @@ if (selected == 'Perkenalan dan Penjelasan Singkat') :
                 banyak kolesterol dalam makanan yang kita makan. Dengan kalkulator kolesterol ini, 
                 Kita dapat dengan cepat menentukan asupan kolesterol harian dan melacaknya. Seseorang 
                 yang berisiko terkena penyakit jantung harus menjaga konsumsi kolesterol hariannya 
-                sekitar 200 mg(''')
+                sekitar 200 mg.''')
 
 if (selected == 'Perhitungan Kolesterol'):
 
